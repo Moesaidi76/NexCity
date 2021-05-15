@@ -46,6 +46,16 @@ Feature a blog for user to share their experince with traveling to Tokyo.
 
 ![GitHub license](https://img.shields.io/badge/test-100%25-success)
 
+![GitHub license](https://img.shields.io/badge/Made%20by-%40Mohamed-Blue)
+Mohamed Saidi
+![GitHub license](https://img.shields.io/badge/Made%20by-%40Nick-Blue)
+Nick D
+![GitHub license](https://img.shields.io/badge/Made%20by-%40Crystal-Blue)
+Crystall Barnett
+![GitHub license](https://img.shields.io/badge/Made%20by-%40Luis-Blue)
+Luis Aquango
+
+
 ## GitHub
 
 - Mohamed Saidi
