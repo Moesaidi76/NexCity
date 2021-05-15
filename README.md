@@ -2,7 +2,9 @@
 
 Version: 1.0.0
 Published: Saturday May 15th 2021
-About NexCity
+
+
+# About NexCity
 
 Are you easily stressed when planning trips or vacations? Tired of sifting through multiple flights and hotel deals? Wish there was someone or something that could do it all for you? Then look no further, NexCity is the solution to all your trip planning woes.
 This app is designed to take all your desired requests for your ideal trip, and based on your requests, produce multiple options of affordable trips that meets the users’ requirements.
