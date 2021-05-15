@@ -39,7 +39,7 @@ Feature a blog for user to share their experince with traveling to Tokyo.
 
 ## Repository
 
-- [Project Repo](https://github.com/Moesaidi76/MVC-Tech-Blog
+- [Project Repo](https://github.com/Moesaidi76/NexCity
 
 ## Test
 
