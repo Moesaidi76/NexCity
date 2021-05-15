@@ -1,7 +1,6 @@
 # NexCity
 
 Version: 1.0.0
-Web Design By Brittany Clark, Clint Gordy, and Tripp Parham
 Published: Saturday May 15th 2021
 About NexCity
 
